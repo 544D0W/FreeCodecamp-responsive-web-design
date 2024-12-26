@@ -77,4 +77,4 @@ Throughout this certification, I developed and honed the following skills:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/haithem0707/freecodecamp-responsive-web-design-projects.git
+    git clone  https://github.com/544D0W/FreeCodecamp-responsive-web-design.git
